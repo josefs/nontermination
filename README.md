@@ -58,3 +58,9 @@ Delimited continuations usings prompts and stuff
 
 See: [Simply typed lambda-calculus with a typed-prompt delimited control is not strongly normalizing](http://okmij.org/ftp/continuations/)
 
+
+Paradoxes in inconsistent type theories
+---------------------------------------
+
+* Girard's paradox
+* Hurken's paradox
